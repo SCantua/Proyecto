@@ -1,0 +1,33 @@
+¿Cómo podemos realizar un seguimiento de: la frecuencia de implementación y el plazo medio de entrega de cambios?
+- Podemos ver estas metricas en Jira (en las historias de usuario), al finalizar cada sprint, claramente veremos las funcionalidades que fueron implementadas (o que tanto porcentaje de las mismas fueron implementadas) y que tanto tiempo se le destino al desarrollo de las mismas.
+
+¿Qué herramientas adicionales se necesitarán?
+- Jenkins, muestra los deploys (exitosos o fallidos) en un determinado lapso de tiempo y cuanto tiempo consumieron estos deploys.
+
+¿Qué periodo de actualización tendrán las métricas?
+- Por sprint (pero esto ya varia en cuanto dura un sprint segun la administracion del proyecto).
+
+¿Dónde sé almacenera la información?
+- Jira y Jenkins cuentan con los registros necesarios para poder tomar esta informacion.
+
+¿Cómo se representará la información?
+- Dashboards, reportes por sprint en jira, reportes por equipo/individuo en excel.
+
+
+--------
+
+
+¿Cómo podemos realizar un seguimiento de: el tiempo medio para recuperarse y la tasa de fallas en cambios?
+- Tambien podemos darle seguimiento en Jira mediante los defectos o bugs registrados mientras se desarrolla una funcionalidad. Ya que aqui se registra el esfuerzo invertido.
+
+¿Qué herramientas adicionales se necesitarán?
+- Jenkins, muestra los deploys (exitosos o fallidos) en un determinado lapso de tiempo y cuanto tiempo consumieron estos deploys.
+
+¿Qué periodo de actualización tendrán las métricas?
+- Por sprint (pero esto ya varia en cuanto dura un sprint segun la administracion del proyecto).
+
+¿Dónde sé almacenera la información?
+- Jira y Jenkins cuentan con los registros necesarios para poder tomar esta informacion.
+
+¿Cómo se representará la información?
+- Dashboards, reportes por sprint en jira, reportes por equipo/individuo en excel.
